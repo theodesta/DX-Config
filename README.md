@@ -1,3 +1,6 @@
 "# DX-Config" 
 "# DX-Backend" 
-"# solr config" 
+"# SOLR config" 
+- Deployment.yml
+- Zipped or Tarred configuration
+
